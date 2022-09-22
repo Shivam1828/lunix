@@ -1,0 +1,13 @@
+Audit steps
+This is what happens during a typical scan with Lynis:
+
+Initialization
+Perform basic checks, such as file ownership
+Determine operating system and tools
+Search for available software components
+Check latest Lynis version
+Run enabled plugins
+Run security tests per category
+Perform execution of your custom tests (optional)
+Report status of security scan
+Besides the report and information displayed on screen, all technical details about the scan are stored in a log file
