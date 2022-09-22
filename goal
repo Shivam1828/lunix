@@ -1,0 +1,12 @@
+The main goals are:
+
+Automated security auditing
+Compliance testing (e.g. ISO27001, PCI-DSS, HIPAA)
+Vulnerability detection
+The software (also) assists with:
+
+Configuration and asset management
+Software patch management
+System hardening
+Penetration testing (privilege escalation)
+Intrusion detection
